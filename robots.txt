@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aagiekoogh.aleck.me/sitemap.xml
